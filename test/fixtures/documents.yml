@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: one
+  department: one
+  speed: one
+
+two:
+  type: two
+  department: two
+  speed: two
